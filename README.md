@@ -7,7 +7,7 @@ I have made this project so my girlfriend can activate the tree's lights when sh
 ## $ languages used
 The project was built using the following technologies:
 
-![Python, Flask, Vim](https://skillicons.dev/icons?i=python,vim,sublime)
+![Python, Flask, Vim](https://skillicons.dev/icons?i=python,flask,vim,)
 
 ## $ license
 This project is for personal use and learning purposes. Feel free to explore and modify it as needed. ❤️
